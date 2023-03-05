@@ -30,7 +30,7 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
 - [x] <b>Responsive Design</b>
-- [x] <b>Customizable Colors and Size</b>: You can easily modify the color and size of the egg and asteroid trail by adjusting the values in the style.css file.
+- [x] <b>Customizable Colors and Size</b>: You can easily modify the color and size of the egg asteroid trail by adjusting the values in the `style.css`file.
 - [x] <b>Smooth Animation</b>
 - [x] <b>Pure HTML and CSS</b>
 - [x] <b>Easy to Use</b>
